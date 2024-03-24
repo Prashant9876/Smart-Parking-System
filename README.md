@@ -1,6 +1,6 @@
 # Smart Parking System using IoT
 
-![Smart Parking System](https://your-image-url-here.com/smart_parking_system.jpg)
+![Smart Parking System](https://github.com/Prashant9876/Smart-Parking-System/blob/main/images.jpg?raw=true)
 
 The **Smart Parking System** is an Internet of Things (IoT) project designed to efficiently manage parking spaces, reduce traffic congestion, and enhance user convenience. By combining hardware components and intelligent algorithms, this system ensures optimal utilization of parking spots.
 
